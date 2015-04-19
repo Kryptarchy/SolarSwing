@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSwing", "SpaceSlingshot\SpaceSlingshot\SolarSwing.csproj", "{2AC15EE8-D9A0-4FA2-B733-531876C74035}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSwing", "SolarSwing\SolarSwing\SolarSwing.csproj", "{2AC15EE8-D9A0-4FA2-B733-531876C74035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSwingContent", "SpaceSlingshot\SpaceSlingshotContent\SolarSwingContent.contentproj", "{713ABE6A-7013-462B-B0D5-67D78D866673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSwingContent", "SolarSwing\SolarSwingContent\SolarSwingContent.contentproj", "{713ABE6A-7013-462B-B0D5-67D78D866673}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -90,7 +90,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SpaceSlingshotContent\SolarSwingContent.contentproj">
+    <ProjectReference Include="..\SolarSwingContent\SolarSwingContent.contentproj">
       <Name>SolarSwingContent</Name>
       <XnaReferenceType>Content</XnaReferenceType>
       <Project>{713ABE6A-7013-462B-B0D5-67D78D866673}</Project>
